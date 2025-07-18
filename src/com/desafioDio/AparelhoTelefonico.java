@@ -1,6 +1,6 @@
 package com.desafioDio;
 
-public interface IPhone {
+public interface AparelhoTelefonico {
     void ligar(String numero);
     void atender();
     void iniciarCorreioVoz();
